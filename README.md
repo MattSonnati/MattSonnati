@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @MattSonnati
-- 👀 I’m interested in Search Engine Technology and EdTech
-- 🖥️  My favorite stack is Python/AWS/Bubble
-- 🌱 I’m currently learning Elasticsearch
+- 👋  Hi, I’m @MattSonnati
+- 👀  I’m interested in Search Engine Technology and EdTech
+- 🖥️   My favorite stack is Python/AWS/Bubble
+- 🌱  I’m currently learning Elasticsearch
 
 
 <!---
